@@ -1,0 +1,16 @@
+[package]
+name = "hyperwood-trough"
+version = "0.1.0"
+edition = "2024"
+license = "Apache-2.0"
+description = "This versatile trough demonstrates Hyperwood’s capability to create curved forms from straight slats—perfect as a plant container or decorative piece."
+documentation = "https://docs.rs/hyperwood-trough/latest/hyperwood-trough/"
+homepage = "https://github.com/jo/hyperwood-trough"
+repository = "https://github.com/jo/hyperwood-trough"
+authors = ["Johannes J. Schmidt <schmidt@tf-fabrik.de>"]
+keywords = ["hyperwood-model"]
+
+[dependencies]
+clap = { version = "4.5.36", features = ["derive"] }
+hyperwood = "0.1.1"
+serde = { version = "1.0.219", features = ["derive"] }
