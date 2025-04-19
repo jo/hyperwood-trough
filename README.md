@@ -1,7 +1,9 @@
 # Hyperwood Trough
 This versatile trough demonstrates Hyperwood’s capability to create curved forms from straight slats—perfect as a plant container or decorative piece.
 
-![A picture showing this trough with a basil plant](basilikum.jpg)
+![A picture showing a trough with a basil plant](basilikum.jpg)
+
+![A picture showing a wide triough](trough-wide.jpg)
 
 ## Usage
 ```
